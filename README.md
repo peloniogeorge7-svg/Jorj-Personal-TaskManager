@@ -22,7 +22,7 @@ After Add Tasks:
 
 ## View Task/Edit Tasks
 Before View/Edit Tasks:
-<img width="1898" height="902" alt="image" src="https://github.com/user-attachments/assets/6948c0e1-9cf5-4085-9b5d-c111d1ffc4fb" />
+<img width="1902" height="881" alt="image" src="https://github.com/user-attachments/assets/8d9e315c-90d2-4279-8970-362a2c8b3309" />
 
 During View/Edit Tasks
 <img width="1900" height="900" alt="image" src="https://github.com/user-attachments/assets/e234ae7d-738b-4292-a2af-c1a7a981fe35" />
